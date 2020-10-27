@@ -3,7 +3,7 @@
 cd `dirname $0`
 
 files=()
-files+=('../src/messages.md')
+files+=('../src/product_top.md')
 
 
 echo 'FORMAT: 1A' > ../api.md || exit $?
