@@ -47,7 +47,7 @@
             	+ (object)
             + menu (array)
             	+ (object)
-            + carousel (array)
+            + premium_push (array)
                 + (object)
                     + id: 112 (number)
                     + message: ご好評につき事前案内会追加開催！ (string)
